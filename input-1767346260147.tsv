@@ -1,0 +1,167 @@
+start	end	text
+0	3520	At the time that you started working in computer music,
+3520	6240	most computer usage was for purposes
+6240	9680	like accounting and ballistics calculations.
+9680	12800	What made you even think of using computers
+12800	14600	as a creative tool?
+14600	18600	I had come to Stanford in 1962 from three years
+18600	22680	studying in Paris with Nadia Boulanger, who
+22680	28440	was a well-known teacher and people such as Aaron Copland.
+28480	32120	Quincy Jones and I were there at the same time studying.
+32120	37360	So she was an important figure in Paris, musical circles.
+37360	42160	But as important to my own education as Nadia Boulanger
+42160	45720	was the musical scene in general in Paris,
+45720	50200	Pierre Boulez was a young avant-garde enfant terrible,
+50200	54440	often referred to in such a way, in Paris
+54440	59400	and had a series of concerts, the Domaine Musical,
+59400	62000	in which he presented new music, much of which
+62000	64880	had to do with loudspeakers, electronic music,
+64880	68400	made by the various kinds of devices
+68400	72920	that one found in radio studios broadcasting in those days,
+72920	76040	oscillators, filters, things that could be turned
+76040	81520	to musical uses by composers if given the opportunity
+81520	84320	to work in some of these studios.
+84360	89320	So when I came to Stanford, having had this rich experience
+89320	92640	in Europe, I, as a graduate student,
+92640	95800	I asked if there were possibilities for such
+95800	97920	and there were none.
+97920	99240	There was no studio.
+99240	102600	There was poor electronic music, the only one
+102600	105560	that I knew of in this country was at Columbia at that time.
+105560	109440	In any case, my second year of graduate school,
+109440	114160	my graduate studies with Leland Smith in composition
+114160	118160	or not musicology is noted in the book, but rather
+118160	120880	I'm a composer by training.
+120880	125120	I was given an article that Max Matthews had written.
+125120	127960	Max was a researcher at Bell Labs,
+127960	131360	director of the Behavioral Research Lab.
+131360	136760	And his interests not only were engineering and engineering
+136760	138360	sciences, but also music.
+138360	142440	And he had developed a program called
+142440	144880	which allowed computers to be used
+144880	147440	to generate acoustic signals.
+147440	150760	This, of course, was of interest in the scientific community
+150760	155560	for speech research, but Max's interests were in music.
+155560	158680	And he wrote this article published in Science
+158680	163560	and in November 1963 describing this program.
+163560	166400	So that was the beginning.
+166400	169360	Now in the very beginning of electronic music,
+169360	172360	the electronics we're talking about were actually analog.
+172560	177400	By the timing of your start in the electronic music field,
+177400	179920	you managed to get in on the ground floor
+179920	183120	of digital electronic music.
+183120	185240	In the very beginning, access to computers
+185240	187160	must have been a very big problem.
+187160	188720	Well, it was.
+188720	193040	But Stanford had a kind of open view toward this
+193040	197480	and had made an invitation to the School of Humanities
+197480	201160	to look at computers and possible applications.
+201200	205200	So there was a coincidence that was my good fortune, that is,
+205200	208720	having looked at this article by Max,
+208720	213160	also realizing that the computer science department, which
+213160	216240	was then part of the School of Humanities and Sciences,
+216240	221440	was open to uses other than the sort of applications
+221440	223520	which you described at the outset.
+223520	229840	So I met a young undergraduate, David Pool, who
+229840	232640	was a tuba player in the orchestra, Stanford Orchestra.
+232640	238680	I was the tympanist at the time of 30-year-old graduate student.
+238680	242720	David was probably a 19 or 20-year-old undergraduate.
+242720	245640	He saw me at the computer center one day
+245640	248680	holding a big box of IBM cards, which I had acquired
+248680	252240	from Max at Bell Labs, and asked what I was doing.
+252240	257520	And I told him that I was going to try and implement
+257520	263160	this program on the computer system at Stanford.
+263160	266480	And he jumped in and offered to help me.
+266480	271880	I think without David, I may not have been successful
+271880	275320	in these early years because it was laborious.
+275320	276400	It was difficult.
+276400	281320	One had to have fairly comprehensive understanding
+281320	283000	of how computers work.
+283000	285360	My last math course had been in high school,
+285360	289880	so it was a long way for me to, let's say,
+289880	291760	would have been a bit of a stretch for me
+291760	295320	to have accomplished this all by myself.
+295320	298760	So David taught me basically all that I needed to know
+298760	301680	through over the course of several years.
+301680	304880	He got the program going, taught me how to program,
+304880	308240	taught me the basics of acoustics, all the things
+308240	310080	that I needed to understand in order
+310080	313280	to begin work with the computer.
+313280	315920	Now, it turns out that his solution
+315920	319960	to getting continuous data stream of samples
+319960	324440	from a big IBM 7090 to a digital analog converter,
+324440	329000	which was actually the two ladders, the XY coordinates
+329000	330880	of a dex scope.
+330880	333880	This continuous data stream in order not
+333880	338840	to have small segments of sound, but rather continuous sound,
+338840	342800	turned out to be a solution to increasing
+342800	349240	the number of timeshare users on this PDP-1 deck timesharing
+349240	352880	system, which I think supported two or three users.
+352880	358080	And David's solution to the problem of data bandwidth
+358080	362080	and continuous samples also solved their problem
+362080	363720	for fast swapping.
+363720	367680	And as I remember, the number of users after he did that
+367680	371160	went from two or three to eight or 10, something that sort.
+371160	374560	So he became a very important part
+374560	378400	of the artificial intelligence laboratory.
+378400	381280	He finished his graduate work and then went on
+381280	385240	and did some, finished his undergraduate, I'm sorry,
+385240	386680	then did some graduate work.
+386680	390440	But he basically became kind of the system guru
+390440	397080	of the lab that John McCarthy directed in the early years.
+397080	400200	When you came to Stanford then, you did not immediately
+400200	402280	go to the AI lab.
+402280	404840	That was subsequent in your career.
+404840	407720	When did you go from the regular campus to the AI lab?
+407720	411600	And given that you were a professor of music at that point,
+411600	414480	rather than a professor of math or computer science,
+414480	416640	what motivated you to move out there?
+416640	419760	I was a graduate student actually until 1966
+419760	421360	when I finished my doctorate.
+421360	428240	But the initial work was done at the computer center on campus
+428240	434280	on a PDP-1, which shared a 2314 disk with an IBM 7090.
+434280	441800	And in 1966 is when the AI project acquired a PDP-6, which
+441800	447880	was a large machine, timeshared, and moved to the DC Power
+447880	451240	Laboratory on the Rastrodero Road.
+451240	456880	And it was then that I started teaching as well that year.
+456880	460640	Your move to the sale facility then out on Rastrodero Road
+460640	464360	was motivated in large part by your desire
+464360	467560	to have access to the computing resources there.
+467560	470080	Did you have a lot of contact with the faculty
+470080	473560	who were doing the more hardcore computer science research,
+473560	478360	like robotics or formal proofs of computer programs?
+478360	479080	Yes, I did.
+479080	481280	I mean, it was one community of people,
+481280	485720	some having more stature than others, I'd say.
+485760	487680	I was not funded.
+487680	491960	And the work that I did, and also with Leland Smith,
+491960	496480	who joined me in this work, who had been my composition
+496480	505680	professor then in 1966, senior colleague, we were unsupported.
+505680	508400	So therefore, we were constrained in the hours
+508400	512960	in which we could use the system to weekends and nights,
+512960	516880	and I would say some very late nights.
+516880	521240	But there was one researcher, Raj Reddy,
+521240	524040	who went on to Carnegie Mellon, and I think
+524040	527120	director of their robotics lab, who at that time
+527120	529800	was working in speech recognition.
+529800	534760	And he and I, of course, had some common interest
+534760	539200	in that we were both interested in the acoustic domain.
+539200	542720	So that was a rich connection.
+542720	548440	I must say, I used the body of people at the AI lab
+548440	549640	to my own advantage.
+549640	553160	I was able to ask many people, many questions,
+553160	557000	and get good, solid answers about things
+557000	558840	that were common knowledge to those
+558840	561520	who were educated in the sciences.
+561520	566720	And so it was a very rich environment, from my point of view.
+566720	568760	I think of all the people, probably David Poole
+568800	573280	was the most important, but in my own particular work,
+573280	575960	because he wrote a special compiler that
+575960	580960	was native to the PDP6, PDP10 family of computers.
+580960	585160	And in doing that, he taught me programming and assembly
+585160	588160	language, whatnot, and sort of shepherded me
+588160	592040	through the life at the AI lab, protecting me
+592040	597760	from occasionally arrogant scientists who would have
+597760	600200	liked less competition for compute cycles.
+600200	604000	But in general, it was a pretty nice environment
+604000	606880	and supportive, I would say.

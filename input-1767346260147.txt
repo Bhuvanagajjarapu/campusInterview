@@ -1,0 +1,166 @@
+At the time that you started working in computer music,
+most computer usage was for purposes
+like accounting and ballistics calculations.
+What made you even think of using computers
+as a creative tool?
+I had come to Stanford in 1962 from three years
+studying in Paris with Nadia Boulanger, who
+was a well-known teacher and people such as Aaron Copland.
+Quincy Jones and I were there at the same time studying.
+So she was an important figure in Paris, musical circles.
+But as important to my own education as Nadia Boulanger
+was the musical scene in general in Paris,
+Pierre Boulez was a young avant-garde enfant terrible,
+often referred to in such a way, in Paris
+and had a series of concerts, the Domaine Musical,
+in which he presented new music, much of which
+had to do with loudspeakers, electronic music,
+made by the various kinds of devices
+that one found in radio studios broadcasting in those days,
+oscillators, filters, things that could be turned
+to musical uses by composers if given the opportunity
+to work in some of these studios.
+So when I came to Stanford, having had this rich experience
+in Europe, I, as a graduate student,
+I asked if there were possibilities for such
+and there were none.
+There was no studio.
+There was poor electronic music, the only one
+that I knew of in this country was at Columbia at that time.
+In any case, my second year of graduate school,
+my graduate studies with Leland Smith in composition
+or not musicology is noted in the book, but rather
+I'm a composer by training.
+I was given an article that Max Matthews had written.
+Max was a researcher at Bell Labs,
+director of the Behavioral Research Lab.
+And his interests not only were engineering and engineering
+sciences, but also music.
+And he had developed a program called
+which allowed computers to be used
+to generate acoustic signals.
+This, of course, was of interest in the scientific community
+for speech research, but Max's interests were in music.
+And he wrote this article published in Science
+and in November 1963 describing this program.
+So that was the beginning.
+Now in the very beginning of electronic music,
+the electronics we're talking about were actually analog.
+By the timing of your start in the electronic music field,
+you managed to get in on the ground floor
+of digital electronic music.
+In the very beginning, access to computers
+must have been a very big problem.
+Well, it was.
+But Stanford had a kind of open view toward this
+and had made an invitation to the School of Humanities
+to look at computers and possible applications.
+So there was a coincidence that was my good fortune, that is,
+having looked at this article by Max,
+also realizing that the computer science department, which
+was then part of the School of Humanities and Sciences,
+was open to uses other than the sort of applications
+which you described at the outset.
+So I met a young undergraduate, David Pool, who
+was a tuba player in the orchestra, Stanford Orchestra.
+I was the tympanist at the time of 30-year-old graduate student.
+David was probably a 19 or 20-year-old undergraduate.
+He saw me at the computer center one day
+holding a big box of IBM cards, which I had acquired
+from Max at Bell Labs, and asked what I was doing.
+And I told him that I was going to try and implement
+this program on the computer system at Stanford.
+And he jumped in and offered to help me.
+I think without David, I may not have been successful
+in these early years because it was laborious.
+It was difficult.
+One had to have fairly comprehensive understanding
+of how computers work.
+My last math course had been in high school,
+so it was a long way for me to, let's say,
+would have been a bit of a stretch for me
+to have accomplished this all by myself.
+So David taught me basically all that I needed to know
+through over the course of several years.
+He got the program going, taught me how to program,
+taught me the basics of acoustics, all the things
+that I needed to understand in order
+to begin work with the computer.
+Now, it turns out that his solution
+to getting continuous data stream of samples
+from a big IBM 7090 to a digital analog converter,
+which was actually the two ladders, the XY coordinates
+of a dex scope.
+This continuous data stream in order not
+to have small segments of sound, but rather continuous sound,
+turned out to be a solution to increasing
+the number of timeshare users on this PDP-1 deck timesharing
+system, which I think supported two or three users.
+And David's solution to the problem of data bandwidth
+and continuous samples also solved their problem
+for fast swapping.
+And as I remember, the number of users after he did that
+went from two or three to eight or 10, something that sort.
+So he became a very important part
+of the artificial intelligence laboratory.
+He finished his graduate work and then went on
+and did some, finished his undergraduate, I'm sorry,
+then did some graduate work.
+But he basically became kind of the system guru
+of the lab that John McCarthy directed in the early years.
+When you came to Stanford then, you did not immediately
+go to the AI lab.
+That was subsequent in your career.
+When did you go from the regular campus to the AI lab?
+And given that you were a professor of music at that point,
+rather than a professor of math or computer science,
+what motivated you to move out there?
+I was a graduate student actually until 1966
+when I finished my doctorate.
+But the initial work was done at the computer center on campus
+on a PDP-1, which shared a 2314 disk with an IBM 7090.
+And in 1966 is when the AI project acquired a PDP-6, which
+was a large machine, timeshared, and moved to the DC Power
+Laboratory on the Rastrodero Road.
+And it was then that I started teaching as well that year.
+Your move to the sale facility then out on Rastrodero Road
+was motivated in large part by your desire
+to have access to the computing resources there.
+Did you have a lot of contact with the faculty
+who were doing the more hardcore computer science research,
+like robotics or formal proofs of computer programs?
+Yes, I did.
+I mean, it was one community of people,
+some having more stature than others, I'd say.
+I was not funded.
+And the work that I did, and also with Leland Smith,
+who joined me in this work, who had been my composition
+professor then in 1966, senior colleague, we were unsupported.
+So therefore, we were constrained in the hours
+in which we could use the system to weekends and nights,
+and I would say some very late nights.
+But there was one researcher, Raj Reddy,
+who went on to Carnegie Mellon, and I think
+director of their robotics lab, who at that time
+was working in speech recognition.
+And he and I, of course, had some common interest
+in that we were both interested in the acoustic domain.
+So that was a rich connection.
+I must say, I used the body of people at the AI lab
+to my own advantage.
+I was able to ask many people, many questions,
+and get good, solid answers about things
+that were common knowledge to those
+who were educated in the sciences.
+And so it was a very rich environment, from my point of view.
+I think of all the people, probably David Poole
+was the most important, but in my own particular work,
+because he wrote a special compiler that
+was native to the PDP6, PDP10 family of computers.
+And in doing that, he taught me programming and assembly
+language, whatnot, and sort of shepherded me
+through the life at the AI lab, protecting me
+from occasionally arrogant scientists who would have
+liked less competition for compute cycles.
+But in general, it was a pretty nice environment
+and supportive, I would say.

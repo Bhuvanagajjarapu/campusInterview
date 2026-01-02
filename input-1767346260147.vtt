@@ -1,0 +1,500 @@
+WEBVTT
+
+00:00.000 --> 00:03.520
+At the time that you started working in computer music,
+
+00:03.520 --> 00:06.240
+most computer usage was for purposes
+
+00:06.240 --> 00:09.680
+like accounting and ballistics calculations.
+
+00:09.680 --> 00:12.800
+What made you even think of using computers
+
+00:12.800 --> 00:14.600
+as a creative tool?
+
+00:14.600 --> 00:18.600
+I had come to Stanford in 1962 from three years
+
+00:18.600 --> 00:22.680
+studying in Paris with Nadia Boulanger, who
+
+00:22.680 --> 00:28.440
+was a well-known teacher and people such as Aaron Copland.
+
+00:28.480 --> 00:32.120
+Quincy Jones and I were there at the same time studying.
+
+00:32.120 --> 00:37.360
+So she was an important figure in Paris, musical circles.
+
+00:37.360 --> 00:42.160
+But as important to my own education as Nadia Boulanger
+
+00:42.160 --> 00:45.720
+was the musical scene in general in Paris,
+
+00:45.720 --> 00:50.200
+Pierre Boulez was a young avant-garde enfant terrible,
+
+00:50.200 --> 00:54.440
+often referred to in such a way, in Paris
+
+00:54.440 --> 00:59.400
+and had a series of concerts, the Domaine Musical,
+
+00:59.400 --> 01:02.000
+in which he presented new music, much of which
+
+01:02.000 --> 01:04.880
+had to do with loudspeakers, electronic music,
+
+01:04.880 --> 01:08.400
+made by the various kinds of devices
+
+01:08.400 --> 01:12.920
+that one found in radio studios broadcasting in those days,
+
+01:12.920 --> 01:16.040
+oscillators, filters, things that could be turned
+
+01:16.040 --> 01:21.520
+to musical uses by composers if given the opportunity
+
+01:21.520 --> 01:24.320
+to work in some of these studios.
+
+01:24.360 --> 01:29.320
+So when I came to Stanford, having had this rich experience
+
+01:29.320 --> 01:32.640
+in Europe, I, as a graduate student,
+
+01:32.640 --> 01:35.800
+I asked if there were possibilities for such
+
+01:35.800 --> 01:37.920
+and there were none.
+
+01:37.920 --> 01:39.240
+There was no studio.
+
+01:39.240 --> 01:42.600
+There was poor electronic music, the only one
+
+01:42.600 --> 01:45.560
+that I knew of in this country was at Columbia at that time.
+
+01:45.560 --> 01:49.440
+In any case, my second year of graduate school,
+
+01:49.440 --> 01:54.160
+my graduate studies with Leland Smith in composition
+
+01:54.160 --> 01:58.160
+or not musicology is noted in the book, but rather
+
+01:58.160 --> 02:00.880
+I'm a composer by training.
+
+02:00.880 --> 02:05.120
+I was given an article that Max Matthews had written.
+
+02:05.120 --> 02:07.960
+Max was a researcher at Bell Labs,
+
+02:07.960 --> 02:11.360
+director of the Behavioral Research Lab.
+
+02:11.360 --> 02:16.760
+And his interests not only were engineering and engineering
+
+02:16.760 --> 02:18.360
+sciences, but also music.
+
+02:18.360 --> 02:22.440
+And he had developed a program called
+
+02:22.440 --> 02:24.880
+which allowed computers to be used
+
+02:24.880 --> 02:27.440
+to generate acoustic signals.
+
+02:27.440 --> 02:30.760
+This, of course, was of interest in the scientific community
+
+02:30.760 --> 02:35.560
+for speech research, but Max's interests were in music.
+
+02:35.560 --> 02:38.680
+And he wrote this article published in Science
+
+02:38.680 --> 02:43.560
+and in November 1963 describing this program.
+
+02:43.560 --> 02:46.400
+So that was the beginning.
+
+02:46.400 --> 02:49.360
+Now in the very beginning of electronic music,
+
+02:49.360 --> 02:52.360
+the electronics we're talking about were actually analog.
+
+02:52.560 --> 02:57.400
+By the timing of your start in the electronic music field,
+
+02:57.400 --> 02:59.920
+you managed to get in on the ground floor
+
+02:59.920 --> 03:03.120
+of digital electronic music.
+
+03:03.120 --> 03:05.240
+In the very beginning, access to computers
+
+03:05.240 --> 03:07.160
+must have been a very big problem.
+
+03:07.160 --> 03:08.720
+Well, it was.
+
+03:08.720 --> 03:13.040
+But Stanford had a kind of open view toward this
+
+03:13.040 --> 03:17.480
+and had made an invitation to the School of Humanities
+
+03:17.480 --> 03:21.160
+to look at computers and possible applications.
+
+03:21.200 --> 03:25.200
+So there was a coincidence that was my good fortune, that is,
+
+03:25.200 --> 03:28.720
+having looked at this article by Max,
+
+03:28.720 --> 03:33.160
+also realizing that the computer science department, which
+
+03:33.160 --> 03:36.240
+was then part of the School of Humanities and Sciences,
+
+03:36.240 --> 03:41.440
+was open to uses other than the sort of applications
+
+03:41.440 --> 03:43.520
+which you described at the outset.
+
+03:43.520 --> 03:49.840
+So I met a young undergraduate, David Pool, who
+
+03:49.840 --> 03:52.640
+was a tuba player in the orchestra, Stanford Orchestra.
+
+03:52.640 --> 03:58.680
+I was the tympanist at the time of 30-year-old graduate student.
+
+03:58.680 --> 04:02.720
+David was probably a 19 or 20-year-old undergraduate.
+
+04:02.720 --> 04:05.640
+He saw me at the computer center one day
+
+04:05.640 --> 04:08.680
+holding a big box of IBM cards, which I had acquired
+
+04:08.680 --> 04:12.240
+from Max at Bell Labs, and asked what I was doing.
+
+04:12.240 --> 04:17.520
+And I told him that I was going to try and implement
+
+04:17.520 --> 04:23.160
+this program on the computer system at Stanford.
+
+04:23.160 --> 04:26.480
+And he jumped in and offered to help me.
+
+04:26.480 --> 04:31.880
+I think without David, I may not have been successful
+
+04:31.880 --> 04:35.320
+in these early years because it was laborious.
+
+04:35.320 --> 04:36.400
+It was difficult.
+
+04:36.400 --> 04:41.320
+One had to have fairly comprehensive understanding
+
+04:41.320 --> 04:43.000
+of how computers work.
+
+04:43.000 --> 04:45.360
+My last math course had been in high school,
+
+04:45.360 --> 04:49.880
+so it was a long way for me to, let's say,
+
+04:49.880 --> 04:51.760
+would have been a bit of a stretch for me
+
+04:51.760 --> 04:55.320
+to have accomplished this all by myself.
+
+04:55.320 --> 04:58.760
+So David taught me basically all that I needed to know
+
+04:58.760 --> 05:01.680
+through over the course of several years.
+
+05:01.680 --> 05:04.880
+He got the program going, taught me how to program,
+
+05:04.880 --> 05:08.240
+taught me the basics of acoustics, all the things
+
+05:08.240 --> 05:10.080
+that I needed to understand in order
+
+05:10.080 --> 05:13.280
+to begin work with the computer.
+
+05:13.280 --> 05:15.920
+Now, it turns out that his solution
+
+05:15.920 --> 05:19.960
+to getting continuous data stream of samples
+
+05:19.960 --> 05:24.440
+from a big IBM 7090 to a digital analog converter,
+
+05:24.440 --> 05:29.000
+which was actually the two ladders, the XY coordinates
+
+05:29.000 --> 05:30.880
+of a dex scope.
+
+05:30.880 --> 05:33.880
+This continuous data stream in order not
+
+05:33.880 --> 05:38.840
+to have small segments of sound, but rather continuous sound,
+
+05:38.840 --> 05:42.800
+turned out to be a solution to increasing
+
+05:42.800 --> 05:49.240
+the number of timeshare users on this PDP-1 deck timesharing
+
+05:49.240 --> 05:52.880
+system, which I think supported two or three users.
+
+05:52.880 --> 05:58.080
+And David's solution to the problem of data bandwidth
+
+05:58.080 --> 06:02.080
+and continuous samples also solved their problem
+
+06:02.080 --> 06:03.720
+for fast swapping.
+
+06:03.720 --> 06:07.680
+And as I remember, the number of users after he did that
+
+06:07.680 --> 06:11.160
+went from two or three to eight or 10, something that sort.
+
+06:11.160 --> 06:14.560
+So he became a very important part
+
+06:14.560 --> 06:18.400
+of the artificial intelligence laboratory.
+
+06:18.400 --> 06:21.280
+He finished his graduate work and then went on
+
+06:21.280 --> 06:25.240
+and did some, finished his undergraduate, I'm sorry,
+
+06:25.240 --> 06:26.680
+then did some graduate work.
+
+06:26.680 --> 06:30.440
+But he basically became kind of the system guru
+
+06:30.440 --> 06:37.080
+of the lab that John McCarthy directed in the early years.
+
+06:37.080 --> 06:40.200
+When you came to Stanford then, you did not immediately
+
+06:40.200 --> 06:42.280
+go to the AI lab.
+
+06:42.280 --> 06:44.840
+That was subsequent in your career.
+
+06:44.840 --> 06:47.720
+When did you go from the regular campus to the AI lab?
+
+06:47.720 --> 06:51.600
+And given that you were a professor of music at that point,
+
+06:51.600 --> 06:54.480
+rather than a professor of math or computer science,
+
+06:54.480 --> 06:56.640
+what motivated you to move out there?
+
+06:56.640 --> 06:59.760
+I was a graduate student actually until 1966
+
+06:59.760 --> 07:01.360
+when I finished my doctorate.
+
+07:01.360 --> 07:08.240
+But the initial work was done at the computer center on campus
+
+07:08.240 --> 07:14.280
+on a PDP-1, which shared a 2314 disk with an IBM 7090.
+
+07:14.280 --> 07:21.800
+And in 1966 is when the AI project acquired a PDP-6, which
+
+07:21.800 --> 07:27.880
+was a large machine, timeshared, and moved to the DC Power
+
+07:27.880 --> 07:31.240
+Laboratory on the Rastrodero Road.
+
+07:31.240 --> 07:36.880
+And it was then that I started teaching as well that year.
+
+07:36.880 --> 07:40.640
+Your move to the sale facility then out on Rastrodero Road
+
+07:40.640 --> 07:44.360
+was motivated in large part by your desire
+
+07:44.360 --> 07:47.560
+to have access to the computing resources there.
+
+07:47.560 --> 07:50.080
+Did you have a lot of contact with the faculty
+
+07:50.080 --> 07:53.560
+who were doing the more hardcore computer science research,
+
+07:53.560 --> 07:58.360
+like robotics or formal proofs of computer programs?
+
+07:58.360 --> 07:59.080
+Yes, I did.
+
+07:59.080 --> 08:01.280
+I mean, it was one community of people,
+
+08:01.280 --> 08:05.720
+some having more stature than others, I'd say.
+
+08:05.760 --> 08:07.680
+I was not funded.
+
+08:07.680 --> 08:11.960
+And the work that I did, and also with Leland Smith,
+
+08:11.960 --> 08:16.480
+who joined me in this work, who had been my composition
+
+08:16.480 --> 08:25.680
+professor then in 1966, senior colleague, we were unsupported.
+
+08:25.680 --> 08:28.400
+So therefore, we were constrained in the hours
+
+08:28.400 --> 08:32.960
+in which we could use the system to weekends and nights,
+
+08:32.960 --> 08:36.880
+and I would say some very late nights.
+
+08:36.880 --> 08:41.240
+But there was one researcher, Raj Reddy,
+
+08:41.240 --> 08:44.040
+who went on to Carnegie Mellon, and I think
+
+08:44.040 --> 08:47.120
+director of their robotics lab, who at that time
+
+08:47.120 --> 08:49.800
+was working in speech recognition.
+
+08:49.800 --> 08:54.760
+And he and I, of course, had some common interest
+
+08:54.760 --> 08:59.200
+in that we were both interested in the acoustic domain.
+
+08:59.200 --> 09:02.720
+So that was a rich connection.
+
+09:02.720 --> 09:08.440
+I must say, I used the body of people at the AI lab
+
+09:08.440 --> 09:09.640
+to my own advantage.
+
+09:09.640 --> 09:13.160
+I was able to ask many people, many questions,
+
+09:13.160 --> 09:17.000
+and get good, solid answers about things
+
+09:17.000 --> 09:18.840
+that were common knowledge to those
+
+09:18.840 --> 09:21.520
+who were educated in the sciences.
+
+09:21.520 --> 09:26.720
+And so it was a very rich environment, from my point of view.
+
+09:26.720 --> 09:28.760
+I think of all the people, probably David Poole
+
+09:28.800 --> 09:33.280
+was the most important, but in my own particular work,
+
+09:33.280 --> 09:35.960
+because he wrote a special compiler that
+
+09:35.960 --> 09:40.960
+was native to the PDP6, PDP10 family of computers.
+
+09:40.960 --> 09:45.160
+And in doing that, he taught me programming and assembly
+
+09:45.160 --> 09:48.160
+language, whatnot, and sort of shepherded me
+
+09:48.160 --> 09:52.040
+through the life at the AI lab, protecting me
+
+09:52.040 --> 09:57.760
+from occasionally arrogant scientists who would have
+
+09:57.760 --> 10:00.200
+liked less competition for compute cycles.
+
+10:00.200 --> 10:04.000
+But in general, it was a pretty nice environment
+
+10:04.000 --> 10:06.880
+and supportive, I would say.
+
